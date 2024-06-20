@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character holdTime="4.00000000000001" icon="dustdust" camx="-800" camy="0" scale="1" color="#003459">
+	<anim x="690" y="60" anim="left " name="singLEFT"/>
+	<anim x="616" y="50" anim="down " name="singDOWN"/>
+	<anim x="603" y="63" anim="up " name="singUP"/>
+	<anim x="615" y="47" anim="right " name="singRIGHT"/>
+	<anim x="620" y="-10" anim="idle" name="idle"/>
+	<anim x="674" y="-70" anim="2wait " name="start2"/>
+	<anim loop="true" x="50" y="-70" anim="wait " name="start1"/>
+</character>

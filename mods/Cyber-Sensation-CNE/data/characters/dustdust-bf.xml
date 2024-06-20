@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character holdTime="5.00000000000001" icon="bf" -camx="220" camy="100" scale="1" color="#FFFF00" flipX="true">
+	<anim x="-49" y="-212" anim="left " name="singLEFT"/>
+	<anim x="-2" y="-267" anim="down " name="singDOWN"/>
+	<anim x="2" y="-200" anim="up " name="singUP"/>
+	<anim x="-33" y="-209" anim="right " name="singRIGHT"/>
+	<anim y="-210" anim="idle" name="idle"/>
+	<anim x="-8" y="-210" anim="miss " name="singDOWNmiss"/>
+	<anim x="-8" y="-210" anim="miss " name="singLEFTmiss"/>
+	<anim x="-8" y="-210" anim="miss" name="singUPmiss"/>
+	<anim x="-8" y="-210" anim="miss" name="singRIGHTmiss"/>
+	<anim x="53" y="-222" anim="attack" name="attack"/>
+	<anim x="9" y="-223" anim="hurt" name="hurt"/>
+</character>

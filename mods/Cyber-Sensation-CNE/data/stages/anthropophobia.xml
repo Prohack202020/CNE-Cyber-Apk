@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="anthropophobia" folder="stages/" startCamPosY="600" startCamPosX="1000">
+	<sprite name="bg1"               x="-1500" y="-350"   sprite="main"       scroll="0.9" />
+	<girlfriend x="-800" y="1/3050" />
+	<dad x="-800" y="1050" />
+	<boyfriend x="450" y="1100" />
+</stage>
